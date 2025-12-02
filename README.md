@@ -22,11 +22,9 @@ I am currently focusing on pruning large language models, including
 
 <a name="Surveys" />
 
-## Surveys
+## Papers
+### Surveys
 - [2024.11] Large Language Models in Operations Research: Methods, Applications, and Challenges, TACL [[Paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00704/125482)]
-- [2025.09] A Systematic Survey on Large Language Models for Evolutionary Optimization:From Modeling to Solving, arXiv [[Paper](https://arxiv.org/abs/2509.08269)]
-- [2025.09] Large Language Models and Operations Research: A Structured Survey, arXiv [[Paper]([https://arxiv.org/abs/2509.08269])]
-- [2025.08] A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions, arXiv [[Paper](https://arxiv.org/abs/2508.10047)]
-- [2025.07] Large Language Models for Combinatorial Optimization: A Systematic Review, arXiv [[Paper](https://arxiv.org/abs/2507.03637)]
-- [2025.05] A Survey of LLM × DATA, arXiv [[Paper](https://arxiv.org/abs/2505.18458)]  [[Code](https://github.com/weAIDB/awesome-data-llm)]
-- [2025.04] Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap, IEEE TEVC [[Paper](https://ieeexplore.ieee.org/document/10767756)] [[Code](https://github.com/wuxingyu-ai/LLM4EC)]
+- [2024.01] Model Compression and Efficient Inference for Large Language Models: A Survey, CoRR [[Paper](https://openreview.net/forum?id=rNoHBvNzHn)]
+
+### Structured Pruning
