@@ -1,11 +1,11 @@
 # Pruning for Large Language Models
 
 
-I currently focus on leveraging large language models for optimization, including
+I currently focus on pruning the large language models , including
 - [Surveys](#Surveys)
-- [Model Construction](#MO)
-- [Algorithm Design](#AD)
-- [Solution Verification](#SV)
+- [Structured Pruning](#MO)
+- [Semi-structured Pruning](#AD)
+- [Unstructured Pruning](#SV)
 - [Application](#SA)
 
  
