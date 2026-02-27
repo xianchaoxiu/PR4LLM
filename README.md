@@ -6,7 +6,7 @@ I am currently focusing on pruning large language models, including
 
 - 📄 **Papers**
   - [Survey](#survey)
-  - [Weight-level Pruning](#Weight-level Pruning)
+  - [Weight-level Pruning](#Weight-level-Pruning)
   - [Structured Pruning](#structured-pruning)
   - [Semi-structured Pruning](#semi-structured-pruning)
   
