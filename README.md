@@ -10,6 +10,7 @@ I am currently focusing on pruning large language models, including
   - [Neuron-level Pruning](#Neuron-level-Pruning)
   - [Attention Head-level Pruning](#Attention-Head-level-Pruning)
   - [Layer-level Pruning](#Layer-level-Pruning)
+  - [Structed Pruning](#Structed-Pruning)
  
 - 🛠️ **Application**
   
@@ -58,5 +59,5 @@ I am currently focusing on pruning large language models, including
 ### Attention Head-level Pruning
 ### Layer-level Pruning
 - [2025.11] EvoP: Robust LLM Inference via Evolutionary Pruning, NLPCC [[Paper](https://link.springer.com/chapter/10.1007/978-981-95-3343-5_36)][[Code](https://github.com/luffy06/EvoP)]
-
+### Structed Pruning
 
