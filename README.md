@@ -7,8 +7,9 @@ I am currently focusing on pruning large language models, including
 - 📄 **Papers**
   - [Survey](#survey)
   - [Weight-level Pruning](#Weight-level-Pruning)
-  - [Structured Pruning](#structured-pruning)
-  
+  - [Neuron-level Pruning](#Neuron-level-Pruning)
+  - [Attention Head-level Pruning](#Attention-Head-level-Pruning)
+  - [Layer-level Pruning](#Layer-level-Pruning)
  
 - 🛠️ **Application**
   
@@ -32,7 +33,7 @@ I am currently focusing on pruning large language models, including
 - [2025.04] Pruning Large Language Models with Semi-Structural Adaptive Sparse Training, AAAI[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34592)]
 - [2025.02] Progressive Binarization with Semi-Structured Pruning for LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.01705)][[Code](https://github.com/XIANGLONGYAN/PBS2P)]
 - [2023.07] SparseGPT: Massive Language Models Can be Accurately Pruned in One-shot, ICML [[Paper](https://dl.acm.org/doi/abs/10.5555/3618408.3618822)][[Code](https://github.com/IST-DASLab/sparsegpt)]
-### Structured Pruning
+### Neuron-level Pruning
 - [2025.11] EvoP: Robust LLM Inference via Evolutionary Pruning, NLPCC [[Paper](https://link.springer.com/chapter/10.1007/978-981-95-3343-5_36)][[Code](https://github.com/luffy06/EvoP)]
 - [2025.05] Let LLM Tell What to Prune and How Much to Prune, ICML [[Paper](https://openreview.net/forum?id=zFR5aWGaUs)][[Code](https://github.com/yangmzevery/PruneLLM)]
 - [2025.05] SlimLLM: Accurate Structured Pruning for Large Language Models, ICML [[Paper](https://openreview.net/forum?id=2xjUkU7FDb)]
@@ -55,3 +56,7 @@ I am currently focusing on pruning large language models, including
 - [2024.01] Structured Optimal Brain Pruning for Large Language Models, EMNLP [[Paper](https://openreview.net/forum?id=a8ruEUhpOv)]
 - [2024.01] LoRAPrune: Structured Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning, ACL [[Paper](https://aclanthology.org/2024.findings-acl.178/)][[Code](https://github.com/aim-uofa/LoRAPrune)]
 - [2024.01] Pruning as a Domain-specific LLM Extractor, NAACL [[Paper](https://pure.psu.edu/en/publications/pruning-as-a-domain-specific-llm-extractor/)][[Code](https://github.com/psunlpgroup/D-Pruner)]
+### Attention Head-level Pruning
+### Layer-level Pruning
+
+
