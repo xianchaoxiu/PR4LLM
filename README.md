@@ -11,6 +11,7 @@ I am currently focusing on pruning large language models, including
   - [Attention Head-level Pruning](#Attention-Head-level-Pruning)
   - [Layer-level Pruning](#Layer-level-Pruning)
   - [Structed Pruning](#Structed-Pruning)
+  - [Dynamic Pruning](#dynamic-pruning)
  
 - 🛠️ **Application**
   
@@ -30,6 +31,7 @@ I am currently focusing on pruning large language models, including
 - [2024.01] Model Compression and Efficient Inference for Large Language Models: A Survey, arXiv [[Paper](https://openreview.net/forum?id=rNoHBvNzHn)]
 
 ### Weight-level Pruning
+- [2025.12] SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale, arXiv[[Paper](https://arxiv.org/abs/2512.10922)]
 - [2025.04] Pruning Large Language Models with Semi-Structural Adaptive Sparse Training, AAAI[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34592)]
 - [2025.02] Progressive Binarization with Semi-Structured Pruning for LLMs, arXiv [[Paper](https://arxiv.org/abs/2502.01705)][[Code](https://github.com/XIANGLONGYAN/PBS2P)]
 - [2023.07] SparseGPT: Massive Language Models Can be Accurately Pruned in One-shot, ICML [[Paper](https://dl.acm.org/doi/abs/10.5555/3618408.3618822)][[Code](https://github.com/IST-DASLab/sparsegpt)]
@@ -39,7 +41,6 @@ I am currently focusing on pruning large language models, including
 - [2025.05] SlimLLM: Accurate Structured Pruning for Large Language Models, ICML [[Paper](https://openreview.net/forum?id=2xjUkU7FDb)]
 - [2025.04] Toward Adaptive Large Language Models Structured Pruning via Hybrid-grained Weight Importance Assessment, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34078)]
 - [2025.04] KVPruner: Structural Pruning for Faster and Memory-Efficient Large Language Models, ICASSP [[Paper](https://ieeexplore.ieee.org/abstract/document/10889000)]
-- [2025.02] MaskPrune: Mask-based LLM Pruning for Layer-wise Uniform Structures, arXiv [[Paper](https://arxiv.org/abs/2502.14008)]
 - [2025.02] Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training, arXiv [[Paper](https://arxiv.org/abs/2502.03460)]
 - [2025.01] CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information， COLING[[Paper](https://openreview.net/forum?id=OHkBBatwp3)][[Code](https://github.com/wyxscir/CFSP)]
 - [2025.01] FASP: Fast and Accurate Structured Pruning of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2501.09412)]
@@ -60,4 +61,8 @@ I am currently focusing on pruning large language models, including
 ### Layer-level Pruning
 - [2025.11] EvoP: Robust LLM Inference via Evolutionary Pruning, NLPCC [[Paper](https://link.springer.com/chapter/10.1007/978-981-95-3343-5_36)][[Code](https://github.com/luffy06/EvoP)]
 ### Structed Pruning
-
+- [2025.07] HAPE: Hardware-Aware LLM Pruning For Efficient On-Device Inference Optimization, ACM [[Paper](https://dl.acm.org/doi/full/10.1145/3744244)]
+- [2025.02] MaskPrune: Mask-based LLM Pruning for Layer-wise Uniform Structures, arXiv [[Paper](https://arxiv.org/abs/2502.14008)]
+### Dynamic Pruning
+- [2025.02] Efficient LLM Inference using Dynamic Input Pruning and Cache-Aware Masking, MLSys[[Paper](https://openreview.net/forum?id=ax6j4R24FI)]
+- [2025.05] Runtime Adaptive Pruning for LLM Inference, arXiv[[Paper](https://arxiv.org/abs/2505.17138)]
