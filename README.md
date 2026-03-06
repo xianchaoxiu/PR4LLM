@@ -48,7 +48,7 @@ I am currently focusing on pruning large language models, including
 - [2025.01] FASP: Fast and Accurate Structured Pruning of Large Language Models, arXiv [[Paper](https://arxiv.org/abs/2501.09412)]
 - [2025.01] 2SSP: A Two-Stage Framework for Structured Pruning of LLMs, arXiv [[Paper](https://arxiv.org/abs/2501.17771)][[Code](https://github.com/FabrizioSandri/2SSP)]
 - [2024.12] Adaptive Pruning for Large Language Models with Structural Importance Awareness, arXiv [[Paper](https://arxiv.org/abs/2412.15127)]
-- 
+  
 - [2024.12] SlimGPT: Layer-wise Structured Pruning for Large Language Models, NIPS [[Paper](https://dl.acm.org/doi/abs/10.5555/3737916.3741317)]
 - [2024.12] LLM-BIP: Structured Pruning for Large Language Models with Block-Wise Forward Importance Propagation, arXiv [[Paper](https://arxiv.org/abs/2412.06419)]
 - [2024.12] All-in-One Tuning and Structural Pruning for Domain-Specific LLMs, arXiv [[Paper](https://arxiv.org/abs/2412.14426)]
